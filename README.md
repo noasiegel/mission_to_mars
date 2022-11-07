@@ -3,7 +3,9 @@
 ## Analysis of Part 2
 
 -According to the dataset, there are 12 months on Mars (as this is the largest integer returned under the "month" column).
+
 -According to the dataset, there are 1867 Martian days worth of data.
+
 -According to the dataset, the average minimum daily temp is -76.12104981253347 degrees. The chart below shows that month 8 is the warmest, and month 3 is the coldest.
 
 ![Screen Shot 2022-11-06 at 8 34 16 PM](https://user-images.githubusercontent.com/110838228/200208986-5c0cabfb-9201-4c01-9a4a-eb9be3a4dd1a.png)
